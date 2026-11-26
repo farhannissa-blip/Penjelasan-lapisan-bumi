@@ -1,0 +1,6 @@
+{
+  "name": "Eksplorasi Bumi 3D — IPAS Kelas 5 SD",
+  "description": "Media pembelajaran 3D interaktif lapisan dan komponen Bumi untuk kelas 5 SD dengan animasi halus, naskah narasi, upload voiceover, dan kuis 15 soal.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
